@@ -213,7 +213,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - your.email@example.com
+Javeria - [@javeriaafzal63](https://x.com/javeriaafzal63) 
 
 Project Link: [https://github.com/yourusername/ui-test-suite](https://github.com/yourusername/ui-test-suite)
 
